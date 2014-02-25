@@ -1,5 +1,7 @@
         /**
          * THIS FUNCTION IS NOT THE FINAL POLYFILL... is just a simple function containing a base idea!!!!!!!!!
+         * 
+         * What's different here??? -> Intended ti support ALSO IE8
          *
          *
          * Register attribute changes in the DOM (yes... should be a plugin)
